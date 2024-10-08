@@ -1,0 +1,12 @@
+OpenGl este un API (application programming interface: interfață de programare a aplicației) care cu ajutorul anumitor funcţii, permite utilizarea unei plăci grafice pentru generarea şi formarea unor scene 2D si 3D complexe şi desenarea lor. Pentru acest API există diferite limbaje care pot fi folosite: C/C++, C#, Java, Python,etc
+OpenGL este un open-source, cross-platform administrat şi gestionat de Grupul Khronos.
+Există diferite implementări standard al acestui API:
+- OpenGL;
+- OpenGL ES;
+- WebGL;
+- Vulkan;
+şi altele non-standard: 
+-Metal (Apple).
+Pentru execuţia unui set de comenzi către subsistemul grafic există o serie de etape predefinite numite pipeline de execuţie.
+În cazul ultimelor versiuni ale acestui pipeline, acesta este implementat şi programat mai eficient şi utilzează rastere şi shadere programabile de către dezvoltător.
+Pentru interfaţa de programare a interfenţelor, OpenGL, sunt posibile 2 tipuri de funcţii: funcţiile generatoare de primitive geometrice şi funcţii de schimbare de stare.
